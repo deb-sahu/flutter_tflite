@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.maersk.flutter_vision'
+    namespace 'com.maersk.flutter_tflite'
     compileSdkVersion 28
 
     defaultConfig {
